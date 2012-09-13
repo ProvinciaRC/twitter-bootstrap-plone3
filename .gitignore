@@ -37,6 +37,9 @@ nbproject
 node_modules
 dist
 
+assets
+bootstrap
+
 less/twitter-bootstrap-2.1.1/*
 !less/twitter-bootstrap-2.1.1/*/
 less/twitter-bootstrap-2.1.1/docs
